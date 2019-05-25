@@ -1,0 +1,5 @@
+/* pages/scan/scan.wxss */
+.do_scan{
+  width:48px;
+  height: 48px;
+}

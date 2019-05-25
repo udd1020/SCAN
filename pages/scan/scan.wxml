@@ -1,0 +1,3 @@
+<!--pages/scan/scan.wxml-->
+<image id='do_scan' src='/res/camera.png' class='do_scan' bindtap='scan_onTouch'></image>
+<text id='reMsg'>{{data_scan}}</text>
